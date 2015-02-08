@@ -1,0 +1,9 @@
+ @font-face{
+    font-family: cczoinks;
+    src: url(../font/ufonts.com_cc-zoinks-medium.ttf);
+}
+@font-face {
+    font-family:"WebSymbols-Regular";
+src: url(../font/WebSymbols-Regular.otf);
+font-weight:normal;font-style:normal;
+}
